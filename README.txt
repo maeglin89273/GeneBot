@@ -1,3 +1,8 @@
+[CRISPR Gene Knockdown]
+
+Collecting the knockdown gene sequence from website (http://crispr.mit.edu) by specifying the gene name (EX: ABI1 [Preferred Symbol] AND Homo[Organism]) and the nucleotides location.
+
+
 Run the quick-start shell(quick_start.sh) with recommended configuration
 If you want to configure the bot manually, type the following command  for more configuration details:
 python3 source/geneBot.py -h
