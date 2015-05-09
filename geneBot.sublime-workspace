@@ -1,0 +1,1529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"creat",
+				"createNode"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"ta",
+				"tail"
+			],
+			[
+				"tabl",
+				"idTable"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"str",
+				"strBuffer"
+			],
+			[
+				"MUL",
+				"MULTI_COMMENT"
+			],
+			[
+				"MU",
+				"MULTI_COMMENT"
+			],
+			[
+				"li",
+				"lineBuffer"
+			],
+			[
+				"prt",
+				"prtLine"
+			],
+			[
+				"discar",
+				"discardEscape"
+			],
+			[
+				"CONST",
+				"CONST_STRING"
+			],
+			[
+				"CONS",
+				"CONST_INT"
+			],
+			[
+				"KW",
+				"K_WHILE"
+			],
+			[
+				"KST",
+				"K_STRUCT"
+			],
+			[
+				"KS",
+				"K_SELF"
+			],
+			[
+				"K_PR",
+				"K_PRINTLN"
+			],
+			[
+				"K_P",
+				"K_PRINT"
+			],
+			[
+				"K_I",
+				"K_INIT"
+			],
+			[
+				"K_F",
+				"K_FUNC"
+			],
+			[
+				"KF",
+				"K_FALSE"
+			],
+			[
+				"K_E",
+				"K_ENUM"
+			],
+			[
+				"K_D",
+				"K_DEFAULT"
+			],
+			[
+				"KC",
+				"K_CASE"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"CMP",
+				"CMP_DIV"
+			],
+			[
+				"CM",
+				"CMP_MINUS"
+			],
+			[
+				"LESS",
+				"LESS_EQ"
+			],
+			[
+				"D",
+				"DIV"
+			],
+			[
+				"ret",
+				"retTok"
+			],
+			[
+				"L_",
+				"L_PARENT"
+			],
+			[
+				"line",
+				"lineBuffer"
+			],
+			[
+				"area",
+				"areaLength"
+			],
+			[
+				"aer",
+				"areaWidth"
+			],
+			[
+				"AREA_",
+				"AREA_LENGTH"
+			],
+			[
+				"ce",
+				"cellLength"
+			],
+			[
+				"booth",
+				"boothWidth"
+			],
+			[
+				"cell",
+				"cellWidth"
+			],
+			[
+				"datebe",
+				"datebineDate"
+			],
+			[
+				"si",
+				"sibling"
+			],
+			[
+				"key",
+				"keySettings"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"v",
+				"vX"
+			],
+			[
+				"po",
+				"potentialAcceration"
+			],
+			[
+				"delta",
+				"deltaY"
+			],
+			[
+				"las",
+				"lastMoveTimestamp"
+			],
+			[
+				"last",
+				"lastMoveTimestamp"
+			],
+			[
+				"clock",
+				"clock_t"
+			],
+			[
+				"la",
+				"lastMoveDirection"
+			],
+			[
+				"l",
+				"leftStartPosition"
+			],
+			[
+				"ba",
+				"ball"
+			],
+			[
+				"ne",
+				"nextY"
+			],
+			[
+				"padd",
+				"paddle"
+			],
+			[
+				"u",
+				"useconds_t"
+			],
+			[
+				"de",
+				"deltaY"
+			],
+			[
+				"sp",
+				"speed"
+			],
+			[
+				"clo",
+				"clock_t"
+			],
+			[
+				"new",
+				"newPaddle"
+			],
+			[
+				"lef",
+				"leftScore"
+			],
+			[
+				"up",
+				"updateThread"
+			],
+			[
+				"qu",
+				"isQuit"
+			],
+			[
+				"ke",
+				"keySettings"
+			],
+			[
+				"ad",
+				"adjustRefreshRate"
+			],
+			[
+				"get",
+				"getch"
+			],
+			[
+				"next",
+				"nextY"
+			],
+			[
+				"del",
+				"deltaY"
+			],
+			[
+				"le",
+				"leftPlayerUp"
+			],
+			[
+				"update",
+				"update"
+			],
+			[
+				"pth",
+				"pthread_t"
+			],
+			[
+				"off",
+				"offsetNextX"
+			],
+			[
+				"pad",
+				"paddleXDetection"
+			],
+			[
+				"refr",
+				"refreshRate"
+			],
+			[
+				"point",
+				"pointGet"
+			],
+			[
+				"ball",
+				"ballRebound"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ref",
+				"refreshRate"
+			],
+			[
+				"c",
+				"centerX"
+			],
+			[
+				"inita",
+				"initializeObjects"
+			],
+			[
+				"paddle",
+				"paddleA"
+			],
+			[
+				"speed",
+				"speedUp"
+			],
+			[
+				"pl",
+				"paddleA"
+			],
+			[
+				"mov",
+				"movhor"
+			],
+			[
+				"inv",
+				"inv_sub"
+			],
+			[
+				"in",
+				"inv_sub"
+			],
+			[
+				"currnet",
+				"currentWeekMoment"
+			],
+			[
+				"target",
+				"target_video"
+			],
+			[
+				"m",
+				"multiRow"
+			],
+			[
+				"curen",
+				"currentWeek"
+			],
+			[
+				"curre",
+				"currentWeek"
+			],
+			[
+				"first",
+				"firstDay"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"arra",
+				"stringArray"
+			],
+			[
+				"sh",
+				"shmget"
+			],
+			[
+				"B",
+				"BUFFERED_RECORD_AMOUNT"
+			],
+			[
+				"word",
+				"wordCompareFunction"
+			],
+			[
+				"EX",
+				"EXIT_FAILURE"
+			],
+			[
+				"I",
+				"INCREASE_AMOUNT"
+			],
+			[
+				"COMM",
+				"COMMAND_READ"
+			],
+			[
+				"Bu",
+				"BUFFERED_RECORD_AMOUNT"
+			],
+			[
+				"current",
+				"current_filesize"
+			],
+			[
+				"upload",
+				"upload_task"
+			],
+			[
+				"sch",
+				"sch_cpy"
+			],
+			[
+				"sche",
+				"schedule_modal"
+			],
+			[
+				"uploa",
+				"uploadTask"
+			],
+			[
+				"exp",
+				"expModalMap"
+			],
+			[
+				"the",
+				"theinput"
+			],
+			[
+				"ex",
+				"exp_svc_model"
+			],
+			[
+				"timeout",
+				"timeoutCount"
+			],
+			[
+				"watch",
+				"watchingTimeout"
+			],
+			[
+				"wat",
+				"watchingTimeout"
+			],
+			[
+				"war",
+				"warningCount"
+			],
+			[
+				"res",
+				"refreshSpaceLen"
+			],
+			[
+				"log",
+				"logProgress"
+			],
+			[
+				"pr",
+				"progressTextTmp"
+			],
+			[
+				"pro",
+				"progressTextTmp"
+			],
+			[
+				"progress",
+				"progressText"
+			],
+			[
+				"progre",
+				"progressText"
+			],
+			[
+				"filter",
+				"filterdTablePath"
+			],
+			[
+				"tab",
+				"tableFilePath"
+			],
+			[
+				"search",
+				"searchName"
+			],
+			[
+				"par",
+				"parseSymbol"
+			],
+			[
+				"make",
+				"makePath"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"mkd",
+				"makeOutputFolder"
+			],
+			[
+				"out",
+				"outputDirName"
+			],
+			[
+				"back",
+				"backupFileLock"
+			],
+			[
+				"bac",
+				"backupFile"
+			],
+			[
+				"job",
+				"jobKey"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/maeglin89273/Git/OpenBCI_Python/user.py",
+			"settings":
+			{
+				"buffer_size": 7076,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/maeglin89273/Desktop/test.dart",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "// This file is not meant for editing. It will be overwritten.\n// Save your customizations to Packages/User/Dart - Plugin Settings.sublime-settings instead.\n\n{\n	// Path to the sdk directory.\n	\"dart_sdk_path\": null,\n	// Path to the directory containing Dartium.\n	// On OSX, it's the full path to Chromium.app.\n	\"dart_dartium_path\": null,\n\n	// User-defined browsers.\n	// Maps arbitrary keys to full paths to executables.\n	// The reserved 'default' name points to the default user browser. It must\n	// be a key in the dictionary.\n	\"dart_user_browsers\": { },\n\n	// If 'true', sends anonymous usage data about this plugin.\n	\"dart_enable_telemetry\": true,\n\n	// If 'true', the analysis server will run in the background.\n	\"dart_enable_analysis_server\": true,\n\n	// Dartlint plugin settings - DEPRECATED\n	\"dart_linter_active\": false,\n	\"dart_linter_on_load\": true,\n	\"dart_linter_on_save\": true,\n	\"dart_linter_show_popup_level\": \"WARNING\",\n	// Dartlint gutter icons\n	// \"dart_linter_gutter_icon_error\": \"Packages/Dart/gutter/dartlint-simple-error.png\",\n	// \"dart_linter_gutter_icon_warning\": \"Packages/Dart/gutter/dartlint-simple-warning.png\",\n	// \"dart_linter_gutter_icon_info\": \"Packages/Dart/gutter/dartlint-simple-info.png\",\n	// Underline colors\n	// \"dart_linter_underline_color_error\": \"C7321C\",\n	// \"dart_linter_underline_color_warning\": \"FAFA37\",\n	// \"dart_linter_underline_color_info\": \"0000FC\",\n\n	// Log level (for debugging).\n	//Can be one of: debug < info < warning < error < critical\n	\"dart_log_level\": \"error\"\n}\n",
+			"settings":
+			{
+				"buffer_size": 1513,
+				"line_ending": "Unix",
+				"name": "Dart Settings - Default (read-only)",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/maeglin89273/idea-IC-141.713.2/Install-Linux-tar.txt",
+			"settings":
+			{
+				"buffer_size": 1609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/maeglin89273/idea-IC-141.713.2/bin/idea64.vmoptions",
+			"settings":
+			{
+				"buffer_size": 226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "This software includes code from IntelliJ IDEA Community Edition\nCopyright (C) JetBrains s.r.o.\nhttps://www.jetbrains.com/idea/\n",
+			"file": "/opt/android-studio/NOTICE.txt",
+			"file_size": 128,
+			"file_write_time": 130731102690858836,
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "%{\n	#include <stdio.h>\n	#include <string.h>\n	#include <stdlib.h>\n\n	#define MAX_LINE_BUFFER 256\n\n	#define SING_DLMT 110\n	#define COMMA 111\n	#define COLON 112\n	#define SEMI 113\n\n	#define PAIR_DLMT 120\n	#define L_PARENT 121\n	#define R_PARENT 122\n	#define L_SQ_BKT 123\n	#define R_SQ_BKT 124\n	#define L_BKT 125\n	#define R_BKT 126\n\n	#define ARI_OP 130\n	#define PLUS 131\n	#define MINUS 132\n	#define MULTI 133\n	#define DIV 134\n	#define MOD 135\n	#define INCR 136\n	#define DECR 137\n\n	#define REL_OP 140\n	#define LESS 141\n	#define LESS_EQ 142\n	#define EQ 143\n	#define GREAT 144\n	#define GREAT_EQ 145\n	#define NOT_EQ 146\n\n	#define LOGI_OP 150\n	#define AND 151\n	#define OR 152\n	#define NOT 153\n\n	#define ASSIGN_OP 160\n\n	#define CMP_OP 170\n	#define CMP_ADD 171\n	#define CMP_MINUS 172\n	#define CMP_MULTI 173\n	#define CMP_DIV 174\n\n	#define RET_OP 180\n\n	#define KEYWORD 180\n	#define K_BREAK 181\n	#define K_CASE 182\n	#define K_CLASS 183\n	#define K_CONTINUE 184\n	#define K_DEFAULT 185\n	#define K_DO 186\n	#define K_ELSE 187\n	#define K_ENUM 188\n	#define K_FALSE 189\n	#define K_FOR 190\n	#define K_FUNC 191\n	#define K_IF 192\n	#define K_IMPORT 193\n	#define K_IN 194\n	#define K_INIT 195\n	#define K_LET 196\n	#define K_NIL 197\n	#define K_PRINT 198\n	#define K_PRINTLN 199\n	#define K_PUBLIC 200\n	#define K_RETURN 201\n	#define K_SELF 202\n	#define K_STATIC 203\n	#define K_STRUCT 204\n	#define K_SWITCH 205\n	#define K_TRUE 206\n	#define K_VAR 207\n	#define K_WHERE 208\n	#define K_WHILE 209\n\n	#define INDENT 210\n\n	#define CONSTANT 220\n	#define CONST_INT 221\n	#define CONST_REAL 222\n	#define CONST_STR 223\n\n	#define NIL -1\n\n\n	typedef struct IdNode {\n		struct IdNode * next;\n		char * id;\n	} IdNode;\n\n	typedef struct IdList {\n		IdNode * head;\n		IdNode * tail;\n		int length;\n	} IdList;\n	\n	IdList * idTable;\n	char lineBuffer[MAX_LINE_BUFFER];\n	char strBuffer[MAX_LINE_BUFFER];\n	int lineCounter = 1;\n\n	void newline();\n	void prtLine(int lineNum, char * line);\n	void clearLineBuffer();\n	void catLine();\n	void prtTok(char * token);\n	int handleIdentTok(char * token);\n	void handleStrTok(char * token);\n	void discardEscape(char * strVal);\n	int handleIntTok(char * token);\n	double handleRealTok(char * token);\n	int retTok(int tokVal, int tokClass);\n\n	//about symbol table\n	IdList * create();\n	int lookup(char * id);\n	int insert(char * id);\n	IdNode * createNode(char * id);\n	void dump();\n%}\n\n%x STRING MULTI_COMMENT\n\n/*The optional numeric signs should belong to unary operators.\nTherefore, I didn't include them in the following regular expressions. */\ninteger [0-9]+\nreal_num [0-9]*\\.[0-9]+([Ee][+-]?[0-9]+)? \nidentifier [A-Za-z][A-Za-z0-9]*\n\n%%\n\",\" {prtTok(\",\"); return retTok(COMMA, SING_DLMT);}\n\":\"	{prtTok(\":\"); return retTok(COLON, SING_DLMT);}\n\";\" {prtTok(\";\"); return retTok(SEMI, SING_DLMT);}\n\n\"(\" {prtTok(\"(\"); return retTok(L_PARENT, PAIR_DLMT);}\n\")\" {prtTok(\")\"); return retTok(R_PARENT, PAIR_DLMT);}\n\"[\" {prtTok(\"[\"); return retTok(L_SQ_BKT, PAIR_DLMT);}\n\"]\" {prtTok(\"]\"); return retTok(R_SQ_BKT, PAIR_DLMT);}\n\"{\" {prtTok(\"{\");return retTok(L_BKT, PAIR_DLMT);}\n\"}\" {prtTok(\"}\"); return retTok(R_BKT, PAIR_DLMT);}\n\n\"+\" {prtTok(\"+\"); return retTok(PLUS, ARI_OP);}\n\"-\" {prtTok(\"-\"); return retTok(MINUS, ARI_OP);}\n\"*\" {prtTok(\"*\"); return retTok(MULTI, ARI_OP);}\n\"/\" {prtTok(\"/\"); return retTok(DIV, ARI_OP);}\n\"%\" {prtTok(\"%\"); return retTok(MOD, ARI_OP);}\n\"++\" {prtTok(\"++\"); return retTok(INCR, ARI_OP);}\n\"--\" {prtTok(\"-\"); return retTok(DECR, ARI_OP);}\n\n\"<\" {prtTok(\"<\"); return retTok(LESS, REL_OP);}\n\"<=\" {prtTok(\"<=\"); return retTok(LESS_EQ, REL_OP);}\n\"==\" {prtTok(\"==\"); return retTok(EQ, REL_OP);}\n\"!=\" {prtTok(\"!=\"); return retTok(GREAT, REL_OP);}\n\">\" {prtTok(\">\"); return retTok(GREAT_EQ, REL_OP);}\n\">=\" {prtTok(\">=\"); return retTok(NOT_EQ, REL_OP);}\n\n\"&&\" {prtTok(\"&&\"); return retTok(AND, LOGI_OP);}\n\"||\" {prtTok(\"||\"); return retTok(OR, LOGI_OP);}\n\"!\" {prtTok(\"!\"); return retTok(NOT, LOGI_OP);}\n\n\"=\" {prtTok(\"=\"); return retTok(ASSIGN_OP, ASSIGN_OP);}\n\n\"+=\" {prtTok(\"+=\"); return retTok(CMP_ADD, CMP_OP);}\n\"-=\" {prtTok(\"-=\"); return retTok(CMP_MINUS, CMP_OP);}\n\"*=\" {prtTok(\"*=\"); return retTok(CMP_MULTI, CMP_OP);}\n\"/=\" {prtTok(\"/=\"); return retTok(CMP_DIV, CMP_OP);}\n\n\"->\" {prtTok(\"->\"); return retTok(RET_OP, RET_OP);}\n\nbreak {prtTok(\"break\"); return retTok(K_BREAK, KEYWORD);}\ncase {prtTok(\"case\"); return retTok(K_CASE, KEYWORD);}\nclass {prtTok(\"class\"); return retTok(K_CLASS, KEYWORD);}\ncontinue {prtTok(\"continue\"); return retTok(K_CONTINUE, KEYWORD);}\ndefault {prtTok(\"default\"); return retTok(K_DEFAULT, KEYWORD);}\ndo {prtTok(\"do\"); return retTok(K_DO, KEYWORD);}\nelse {prtTok(\"else\"); return retTok(K_ELSE, KEYWORD);}\nenum {prtTok(\"enum\"); return retTok(K_ENUM, KEYWORD);}\nfalse {prtTok(\"false\"); return retTok(K_FALSE, KEYWORD);}\nfor {prtTok(\"for\"); return retTok(K_FOR, KEYWORD);}\nfunc {prtTok(\"func\"); return retTok(K_FUNC, KEYWORD);}\nif {prtTok(\"if\"); return retTok(K_IF, KEYWORD);}\nimport {prtTok(\"import\"); return retTok(K_IMPORT, KEYWORD);}\nin {prtTok(\"in\"); return retTok(K_IN, KEYWORD);}\ninit {prtTok(\"init\"); return retTok(K_INIT, KEYWORD);}\nlet {prtTok(\"let\"); return retTok(K_LET, KEYWORD);}\nnil {prtTok(\"nil\"); return retTok(K_NIL, KEYWORD);}\nprint {prtTok(\"print\"); return retTok(K_PRINT, KEYWORD);}\nprintln {prtTok(\"println\"); return retTok(K_PRINTLN, KEYWORD);}\npublic {prtTok(\"public\"); return retTok(K_PUBLIC, KEYWORD);}\nreturn {prtTok(\"return\"); return retTok(K_RETURN, KEYWORD);}\nself {prtTok(\"self\"); return retTok(K_SELF, KEYWORD);}\nstatic {prtTok(\"static\"); return retTok(K_STATIC, KEYWORD);}\nstruct {prtTok(\"struct\"); return retTok(K_STRUCT, KEYWORD);}\nswitch {prtTok(\"switch\"); return retTok(K_SWITCH, KEYWORD);}\ntrue {prtTok(\"true\"); return retTok(K_TRUE, KEYWORD);}\nvar {prtTok(\"var\"); return retTok(K_VAR, KEYWORD);}\nwhere {prtTok(\"where\"); return retTok(K_WHERE, KEYWORD);}\nwhile {prtTok(\"while\"); return retTok(K_WHILE, KEYWORD);}\n\n{identifier} {int index = handleIdentTok(\"identifier\"); return retTok(index, INDENT);}\n{integer} {int val = handleIntTok(\"integer\"); return retTok(val, CONST_INT);}\n{real_num} {double real = handleRealTok(\"real\"); return retTok(CONST_REAL, CONST_REAL);}\n\n\\\" {\n		catLine();\n		BEGIN STRING;			\n	}\n<STRING>\\\" {	\n				handleStrTok(\"string\");\n				BEGIN INITIAL;\n				return retTok(CONST_STR, CONST_STR);\n			}\n<STRING>[^\"\\n]* |\n<STRING>\\\"\\\" {\n				strncat(strBuffer, yytext, yyleng);\n				catLine();\n			}\n\n\n\n[ \\t]* {catLine();}\n<INITIAL,MULTI_COMMENT>\\n { \n		newline();\n	}\n\n<STRING>\\n {\n		strncat(strBuffer, yytext, yyleng);\n		newline();\n	}\n\n\"//\".*[^\\n] {catLine();}\n\"/*\" {\n		catLine();\n		BEGIN MULTI_COMMENT;\n	}\n<MULTI_COMMENT>\"*/\" {\n		catLine();\n		BEGIN INITIAL;\n	}\n<MULTI_COMMENT>. {\n		catLine();\n	}\n\n. {\n	catLine();\n	prtLine(lineCounter, lineBuffer);\n	printf(\"\\nbad character:’%s’\\n\",yytext);\n	exit(-1);\n}\n%%\n\nvoid newline() {\n	catLine();\n	prtLine(lineCounter, lineBuffer);\n	clearLineBuffer();\n	lineCounter++;\n}\n\nvoid prtLine(int lineNum, char * line) {\n	printf(\"%d: %s\", lineNum, line);\n}\n\nvoid clearLineBuffer() {\n	lineBuffer[0] = '\\0';\n}\n\nvoid catLine() {\n	strncat(lineBuffer, yytext, yyleng);\n}\n\nvoid prtTok(char * token) {\n	catLine();\n	printf(\"\\t<%s>\\n\", token);\n}\n\nint handleIdentTok(char * token) {\n	catLine();\n	int index = lookup(yytext);\n	if (index == NIL) {\n		index = insert(yytext);\n	}\n	printf(\"\\t<%s:%s(id=%d)>\\n\", token, yytext, index);\n	return index;\n}\n\nvoid handleStrTok(char * token) {\n	catLine();\n\n	discardEscape(strBuffer);\n	printf(\"\\t<%s:%s>\\n\", token, strBuffer);\n\n	strBuffer[0] = '\\0';\n}\n\nvoid discardEscape(char * strVal) {\n	char * escapePos;\n	for(;escapePos = strchr(strVal, '\\\"'); strVal = escapePos + 1) {\n		memmove(escapePos, escapePos + 1, strlen(escapePos));\n	}\n}\n\nint handleIntTok(char * token) {\n	catLine();\n	int intVal = 0;\n	sscanf(yytext, \"%d\", &intVal);\n	printf(\"\\t<%s:%d>\\n\", token, intVal);\n	return intVal;\n}\n\ndouble handleRealTok(char * token) {\n	catLine();\n	double realVal = 0;\n	sscanf(yytext, \"%lf\", &realVal);\n	printf(\"\\t<%s:%s(=%lf)>\\n\", token, yytext, realVal);\n	return realVal;\n}\n\n/* This function is related to parser,\nit will be implemented properly in the next project.\nRight now, it's just a prototype */\nint retTok(int tokVal, int tokType) {\n	// yylval = tokVal;\n	return tokType;\n}\n\nIdList * create() {\n	IdList * list = (IdList *)malloc(sizeof(IdList));\n	list->head = list->tail = NULL;\n	list->length = 0;\n	return list;\n}\n\nint lookup(char * id) {\n	int i = 0;\n	IdNode * node = idTable->head;\n	for (; node != NULL; node = node->next, i++) {\n		if (strcmp(id, node->id) == 0) {\n			return i;\n		}\n	}\n\n	return NIL;\n}\n\nint insert(char * id) {\n	idTable->length++;\n	if (idTable->tail == NULL) {\n		idTable->head = idTable->tail = createNode(id);	\n	} else {\n		idTable->tail->next = createNode(id);\n		idTable->tail = idTable->tail->next;\n	}\n\n	return idTable->length - 1;\n}\n\nIdNode * createNode(char * id) {\n\n	IdNode * node = (IdNode *)malloc(sizeof(IdNode));\n	node->next = NULL;\n	node->id = (char *)malloc(sizeof(char) * strlen(id));\n	strcpy(node->id, id);\n	return node;\n}\n\nvoid dump() {\n	printf(\"Symbol Table:\\n\");\n	IdNode * node = idTable->head;\n	IdNode * tmp;\n	int i = 0;\n	for (; node != NULL; i++) {\n		printf(\"%d: %s\\n\", i, node->id);\n		tmp = node;\n		node = node->next;\n		free(tmp);\n	}\n\n	free(idTable);\n}\n\nint yywrap() {\n	newline();\n	printf(\"\\n\");\n	dump();\n	return 1;\n}\n\nmain() {\n	idTable = create();\n	while(yylex());\n	fflush(yyout);\n}",
+			"file": "/home/maeglin89273/Desktop/compiler_hw/compiler_hw.l",
+			"file_size": 9320,
+			"file_write_time": 130752300125753400,
+			"settings":
+			{
+				"buffer_size": 9316,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Dart/Support/Dart.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/POSIX_C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/POSIX_C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Dart/Support/Dart.sublime-build",
+					""
+				],
+				[
+					"Packages/Dart/Support/Dart.sublime-build",
+					"Dart: pub build"
+				],
+				[
+					"Packages/Dart/Support/Dart.sublime-build",
+					"Dart: dart2js"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Dart/Support/Dart.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 261.0,
+		"last_filter": "Package Control: re",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: insal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:re",
+				"Package Control: Remove Package"
+			],
+			[
+				"dart setting",
+				"Preferences: Dart Settings - Default"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: If Condition"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insatll ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/maeglin89273/.config/sublime-text-3/Packages/User/Dart - Plugin Settings.sublime-settings",
+		"/opt/android-studio/Install-Linux-tar.txt",
+		"/opt/android-studio/NOTICE.txt",
+		"/home/maeglin89273/idea-IC-141.713.2/Install-Linux-tar.txt",
+		"/home/maeglin89273/Desktop/test.dart.js",
+		"/home/maeglin89273/Git/OpenBCI_Python/user.py",
+		"/home/maeglin89273/Desktop/compiler_hw/Proj1_B10115018.l",
+		"/home/maeglin89273/.config/sublime-text-3/Packages/User/Dart.sublime-settings",
+		"/home/maeglin89273/Git/OpenBCI_Python/open_bci_v3.py",
+		"/home/maeglin89273/Git/OpenBCI_Python/scripts/test.py",
+		"/home/maeglin89273/Git/OpenBCI_Python/test.py",
+		"/home/maeglin89273/Git/OpenBCI_Python/scripts/socket_client.py",
+		"/home/maeglin89273/Git/OpenBCI_Python/scripts/stream_data.py",
+		"/home/maeglin89273/Git/OpenBCI_Python/scripts/udp_client.py",
+		"/home/maeglin89273/Git/OpenBCI_Python/scripts/udp_server.py",
+		"/home/maeglin89273/Git/OpenBCI_Python/scripts/README.md",
+		"/home/maeglin89273/Desktop/compiler_hw/test.swift",
+		"/home/maeglin89273/Desktop/geneBot/readme.txt",
+		"/home/maeglin89273/Desktop/compiler_hw/example.txt",
+		"/home/maeglin89273/Git/OpenBCI_Python/README.md",
+		"/home/maeglin89273/Git/OpenBCI_Python/plugin_interface.py",
+		"/home/maeglin89273/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/maeglin89273/Desktop/compiler_hw/compiler_hw.l",
+		"/home/maeglin89273/Desktop/Python Project/A 顏睿穎-學生@顏睿穎_18952_assignsubmission_file_顏睿穎_顏睿穎.py",
+		"/home/maeglin89273/Desktop/Python Project/A 陳秉興-學生@陳秉興_18910_assignsubmission_file_陳秉興.py",
+		"/home/maeglin89273/Desktop/Python Project/A 邱敏哲 唐于竣-學生@唐于竣_18897_assignsubmission_file_project2.py",
+		"/home/maeglin89273/Desktop/Python Project/A 葉偉辰 梁惟舜-學生@梁惟舜_18948_assignsubmission_file_葉韋辰_梁惟舜.py",
+		"/home/maeglin89273/Desktop/Python Project/A 范芷毓 徐志豪-學生@徐志豪_18913_assignsubmission_file_范芷毓_徐志豪.py.py",
+		"/home/maeglin89273/Desktop/Python Project/A 洪晉偉 鄭于均-學生@鄭于均_18922_assignsubmission_file_洪晉偉_鄭于均.py",
+		"/home/maeglin89273/Desktop/Python Project/A 楊朝鈞 李典岡-學生@楊朝鈞_18919_assignsubmission_file_李典岡_楊朝鈞.py",
+		"/home/maeglin89273/Desktop/Python Project/A 梁育綾 張惠筑-學生@梁育綾_18946_assignsubmission_file_梁育綾_張惠筑.py (1).py",
+		"/home/maeglin89273/Desktop/Python Project/A 林立慶 周育恩-學生@林立慶_18980_assignsubmission_file_lab5 周育恩_林立慶.py",
+		"/home/maeglin89273/Desktop/Python Project/A 林宜艷 劉婉萍-學生@林宜_18896_assignsubmission_file_林宜豔_劉婉萍.py",
+		"/home/maeglin89273/Desktop/Python Project/A 張庭瑜 江銘涵-學生@江銘涵_18956_assignsubmission_file_Lab5.py",
+		"/home/maeglin89273/Desktop/Python Project/A 劉庭毓 張瑜庭-學生@張瑜庭_18934_assignsubmission_file_張瑜庭_劉庭毓(加註解).py.py",
+		"/home/maeglin89273/Desktop/Python Project/A 何韋成 林子喨-學生@林子喨_18976_assignsubmission_file_林子喨_何韋成.py",
+		"/home/maeglin89273/Desktop/HW1/M 徐治平 許維方-學生@許維方_18902_assignsubmission_file_lab5.py",
+		"/home/maeglin89273/Desktop/HW1/M 秦柔 余彥廷-學生@余彥廷_18911_assignsubmission_file_秦柔_余彥廷.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy3/A 羅鈞澤-學生@羅鈞澤_18962_assignsubmission_file_b10301016羅鈞澤.py",
+		"/home/maeglin89273/Desktop/Python Project/A 何韋成 林子喨-學生@何韋成_18901_assignsubmission_file_林子喨_何韋成.py",
+		"/home/maeglin89273/Desktop/Python Project/A 劉庭毓 張瑜庭-學生@劉庭毓_18979_assignsubmission_file_張瑜庭_劉庭毓(加註解).py.py",
+		"/home/maeglin89273/Desktop/Python Project/A 張庭瑜 江銘涵-學生@張庭瑜_18966_assignsubmission_file_Lab5.py",
+		"/home/maeglin89273/Desktop/Python Project/A 朱民義 詹子祥-學生@詹子祥_18972_assignsubmission_file_詹子祥_朱民義.py",
+		"/home/maeglin89273/Desktop/HW1/M 王怡萍 馬季涵-學生@馬季涵_18930_assignsubmission_file_王怡萍_馬季涵.py",
+		"/home/maeglin89273/Desktop/HW1/M 徐治平 許維方-學生@徐治平_18970_assignsubmission_file_lab5.py",
+		"/home/maeglin89273/Desktop/HW1/M 沈子暄 黃琳峮-學生@沈子暄_18960_assignsubmission_file_沈子暄 黃琳峮.py",
+		"/home/maeglin89273/Desktop/Python Project/A 朱民義 詹子祥-學生@朱民義_18915_assignsubmission_file_詹子祥_朱民義.py",
+		"/home/maeglin89273/Desktop/Python Project/A 林宜艷 劉婉萍-學生@劉婉萍_18947_assignsubmission_file_林宜豔_劉婉萍.py",
+		"/home/maeglin89273/Desktop/Python Project/A 林立慶 周育恩-學生@周育恩_18908_assignsubmission_file_lab5 周育恩_林立慶.py",
+		"/home/maeglin89273/Desktop/Python Project/A 梁育綾 張惠筑-學生@張惠筑_18968_assignsubmission_file_梁育綾_張惠筑.py (1).py",
+		"/home/maeglin89273/Desktop/Python Project/A 楊朝鈞 李典岡-學生@李典岡_18918_assignsubmission_file_李典岡_楊朝鈞.py",
+		"/home/maeglin89273/Desktop/Python Project/A 洪晉偉 鄭于均-學生@洪晉偉_18954_assignsubmission_file_洪晉偉_鄭于均.py",
+		"/home/maeglin89273/Desktop/Python Project/A 范芷毓 徐志豪-學生@范芷毓_18969_assignsubmission_file_范芷毓_徐志豪.py.py",
+		"/home/maeglin89273/Desktop/Python Project/A 葉偉辰 梁惟舜-學生@葉韋辰_18906_assignsubmission_file_葉韋辰_梁惟舜.py",
+		"/home/maeglin89273/Desktop/Python Project/A 邱敏哲 唐于竣-學生@邱敏哲_18973_assignsubmission_file_project2.py",
+		"/home/maeglin89273/Desktop/HW1/M 張嘉君 林宏儒-學生@林宏儒_18961_assignsubmission_file_Lab5_張嘉君 林宏儒.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy1/A 林宜艷 劉婉萍-學生@林宜_18896_assignsubmission_file_林宜豔_劉婉萍.py",
+		"/home/maeglin89273/Desktop/HW1/M 張嘉君 林宏儒-學生@張嘉君_18925_assignsubmission_file_Lab5_張嘉君 林宏儒.py",
+		"/home/maeglin89273/Desktop/A-何韋成-林子喨-學生何韋成_18901_assignsubmission_file_林子喨_何韋成.py",
+		"/home/maeglin89273/Desktop/HW1/M 孫武廷 葉子瑋-學生@葉子瑋_18978_assignsubmission_file_lab5 孫武廷 葉子瑋.py",
+		"/home/maeglin89273/Desktop/HW1/A 顏萱婷 古小玉-學生@古小玉_18921_assignsubmission_file_顏萱婷_古小玉.py",
+		"/home/maeglin89273/Desktop/HW1/M 吳泳錡 黃筱珊-學生@吳泳錡_18987_assignsubmission_file_黃筱珊.吳泳錡.py",
+		"/home/maeglin89273/Desktop/HW1/M 邱則翔-學生@邱則翔_18936_assignsubmission_file_邱則翔.py",
+		"/home/maeglin89273/Desktop/HW1/M 鍾承峰 戴汶男-學生@鍾承峰_18977_assignsubmission_file_鍾承峰_戴汶男.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy8/A 張鳳予 許群翌-學生@張鳳予_18963_assignsubmission_file_張鳳予_許群翌.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy6/A 顏睿穎-學生@顏睿穎_18952_assignsubmission_file_顏睿穎_顏睿穎.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy7/A 林立慶 周育恩-學生@周育恩_18908_assignsubmission_file_lab5 周育恩_林立慶.py",
+		"/home/maeglin89273/Desktop/HW1/M 吳泳錡 黃筱珊-學生@黃筱珊_18905_assignsubmission_file_黃筱珊.吳泳錡.py",
+		"/home/maeglin89273/Desktop/HW1/M 沈子暄 黃琳峮-學生@黃琳峮_18903_assignsubmission_file_沈子暄 黃琳峮.py",
+		"/home/maeglin89273/Desktop/HW1/M 鍾承峰 戴汶男-學生@戴汶男_18949_assignsubmission_file_鍾承峰_戴汶男.py",
+		"/home/maeglin89273/Desktop/HW1/M 鍾承恩 劉冠宏-學生@劉冠宏_18940_assignsubmission_file_劉冠宏_鍾承恩_攤位.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy6/M 鍾承峰 戴汶男-學生@戴汶男_18949_assignsubmission_file_鍾承峰_戴汶男.py",
+		"/home/maeglin89273/Desktop/HW1/M 鍾承恩 劉冠宏-學生@鍾承恩_18926_assignsubmission_file_劉冠宏_鍾承恩_攤位.py",
+		"/home/maeglin89273/Desktop/HW1/M 黃宗文 施宣酉-學生@黃宗文_18943_assignsubmission_file_施宣酉_黃宗文.py",
+		"/home/maeglin89273/Desktop/HW1/M 孫武廷 葉子瑋-學生@孫武廷_18900_assignsubmission_file_lab5 孫武廷 葉子瑋.py",
+		"/home/maeglin89273/Desktop/HW1/M 秦柔 余彥廷-學生@秦柔_18985_assignsubmission_file_秦柔_余彥廷.py",
+		"/home/maeglin89273/Desktop/Python Project/A 謝和憲 陳俁劭-學生@謝和憲_18942_assignsubmission_file_謝和憲_陳俁劭.py",
+		"/home/maeglin89273/Desktop/HW1/M 黃宗文 施宣酉-學生@施宣酉_18899_assignsubmission_file_施宣酉_黃宗文.py",
+		"/home/maeglin89273/.cache/.fr-lMBrQG/M 許孟麟 賴昱澂-學生@許孟麟_18965_assignsubmission_file_賴昱澂 許孟麟.py",
+		"/home/maeglin89273/Desktop/HW1/M 翁維璟 范宇宏-學生@范宇宏_18951_assignsubmission_file_project.py.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy1/M 沈子暄 黃琳峮-學生@沈子暄_18960_assignsubmission_file_沈子暄 黃琳峮.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy3/M 徐治平 許維方-學生@許維方_18902_assignsubmission_file_lab5.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy2/A 謝和憲 陳俁劭-學生@陳俁劭_18983_assignsubmission_file_謝和憲_陳俁劭.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy4/M 林子婷-學生@林子婷_18974_assignsubmission_file_林子婷.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy4/M 吳泳錡 黃筱珊-學生@黃筱珊_18905_assignsubmission_file_黃筱珊.吳泳錡.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy2/M 柯沛亘 程弘睿-學生@柯沛亘_18920_assignsubmission_file_lab5 python作業.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/copy2/M 李冠樺 許瀞方-學生@許瀞方_18981_assignsubmission_file_李冠樺許瀞方.py",
+		"/home/maeglin89273/Desktop/HW1/M 王怡萍 馬季涵-學生@王怡萍_18939_assignsubmission_file_王怡萍_馬季涵.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/A-cpoy1/A 張庭瑜 江銘涵-學生@張庭瑜_18966_assignsubmission_file_Lab5.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/A-cpoy1/A 林宜艷 劉婉萍-學生@林宜_18896_assignsubmission_file_林宜豔_劉婉萍.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/M-copy1/M 周維則 施宇謙-學生@施宇謙_18895_assignsubmission_file_b10330440 施宇謙.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/AM-copy3/M 徐治平 許維方-學生@許維方_18902_assignsubmission_file_lab5.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/A-copy2/A 吳柏勳 洪偉程-學生@吳柏勳_18955_assignsubmission_file_洪偉程_吳柏勳.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/A-copy2/A 朱彥旭 謝沛芸-學生@朱彥旭_18953_assignsubmission_file_lab5-python作業.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/AM-copy2/M 柯沛亘 程弘睿-學生@柯沛亘_18920_assignsubmission_file_lab5 python作業.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/A-copy2/A 謝和憲 陳俁劭-學生@陳俁劭_18983_assignsubmission_file_謝和憲_陳俁劭.py",
+		"/home/maeglin89273/Desktop/HW1/M 李冠樺 許瀞方-學生@李冠樺_18917_assignsubmission_file_李冠樺許瀞方.py",
+		"/home/maeglin89273/Desktop/testScan.c",
+		"/home/maeglin89273/Desktop/proj1.l",
+		"/home/maeglin89273/Desktop/compiler_hw/lex.yy.c",
+		"/home/maeglin89273/Desktop/compiler_hw.l",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/A-copy3/A 楊朝鈞 李典岡-學生@李典岡_18918_assignsubmission_file_李典岡_楊朝鈞.py",
+		"/home/maeglin89273/Dropbox/PYTHON_LAB/Lab2/cheating/A-copy3/A 楊宗翰 陳宣融-學生@楊宗翰_18957_assignsubmission_file_2周程式.py",
+		"/home/maeglin89273/Desktop/copy/A-張庭瑜-江銘涵-學生張庭瑜_18966_assignsubmission_file_Lab5.py",
+		"/home/maeglin89273/Desktop/copy/A-林宜艷-劉婉萍-學生劉婉萍_18947_assignsubmission_file_林宜豔_劉婉萍.py",
+		"/home/maeglin89273/Desktop/A-林立慶-周育恩-學生周育恩_18908_assignsubmission_file_lab5-周育恩_林立慶.py",
+		"/home/maeglin89273/Desktop/A-洪晉偉-鄭于均-學生洪晉偉_18954_assignsubmission_file_洪晉偉_鄭于均.py",
+		"/home/maeglin89273/Desktop/Python Project/A 吳柏勳 洪偉程-學生@洪偉程_18931_assignsubmission_file_洪偉程_吳柏勳.py",
+		"/home/maeglin89273/Desktop/A-楊朝鈞-李典岡-學生李典岡_18918_assignsubmission_file_李典岡_楊朝鈞.py",
+		"/home/maeglin89273/Desktop/lab2_q1.py",
+		"/home/maeglin89273/Desktop/libraries/readme.txt",
+		"/home/maeglin89273/Desktop/test.py",
+		"/home/maeglin89273/Desktop/HW1/M 吳政緯 謝涵婷-學生@吳政緯_18941_assignsubmission_file_吳政緯_謝涵婷.py",
+		"/home/maeglin89273/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/maeglin89273/Desktop/package/mod2.py",
+		"/home/maeglin89273/Desktop/package/main.py",
+		"/home/maeglin89273/Arduino/stino/stino.ino",
+		"/home/maeglin89273/Desktop/package/mod1.py",
+		"/home/maeglin89273/Desktop/HW1/A 何韋成 林子喨-學生@何韋成_18901_assignsubmission_file_林子喨_何韋成.py",
+		"/etc/environment",
+		"/home/maeglin89273/.cache/.fr-fASWXA/A 楊朝鈞 李典岡-學生@李典岡_9664_assignsubmission_file_作業.py",
+		"/home/maeglin89273/.cache/.fr-2qkVWO/M 鍾承恩 劉冠宏-學生@鍾承恩_9743_assignsubmission_file_鍾承恩_劉冠宏.py.py",
+		"/home/maeglin89273/.cache/.fr-ISD2Xh/M 秦柔 余彥廷-學生@秦柔_9688_assignsubmission_file_余彥廷_秦柔.py",
+		"/home/maeglin89273/.cache/.fr-Qj6pU6/M 許孟麟 賴昱澂-學生@許孟麟_9676_assignsubmission_file_許孟麟  賴昱澂.py",
+		"/home/maeglin89273/.cache/.fr-Aqsb6H/M 許孟麟 賴昱澂-學生@許孟麟_9676_assignsubmission_file_許孟麟  賴昱澂.py",
+		"/home/maeglin89273/Desktop/processing-2.2.1/processing",
+		"/home/maeglin89273/.cache/.fr-kjIozI/hm-10教程.txt",
+		"/home/maeglin89273/Desktop/stino.ino"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"",
+			"/home/maeglin89273/Desktop/guacamole-server-0.9.3/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"start",
+			"find_port",
+			"find_",
+			"streaming",
+			"scripts",
+			"newline",
+			"SL",
+			"大走道橫向個數=",
+			"compute_Area",
+			"compute",
+			"48",
+			"idTable->head",
+			"end",
+			"start",
+			"IdNode",
+			"IdList",
+			"yywrap(",
+			"yywrap",
+			"yylex( )",
+			"yywrap",
+			"yylex()",
+			"main (",
+			"main(",
+			"main",
+			"yylex",
+			"peek",
+			"handleStrTok",
+			"doubl",
+			"doub",
+			"main(",
+			"prtStrTok",
+			"prtRealTok",
+			"prtIntTok",
+			"prtIdentTok",
+			"CONST_STRING",
+			");}",
+			"{;}",
+			"returnToken",
+			"tokClass",
+			"Cla",
+			" ",
+			"width_height",
+			"raw_",
+			"_",
+			"particles",
+			"f",
+			"gbest",
+			"pso",
+			"depot",
+			"func",
+			"funcP",
+			"nextX",
+			"x",
+			"s",
+			"id2find",
+			"500",
+			"510",
+			"660",
+			"pairs",
+			"boothWidth",
+			"Width",
+			"fullArea",
+			"e",
+			"cell",
+			"width",
+			"2",
+			"length",
+			"aislebig_widthnum",
+			"aislebig_lengthnum",
+			"aislebig",
+			"aislesmall",
+			"boothnum",
+			"boothwidth",
+			"boothlength",
+			"print ",
+			"scanf(\"%d\",&",
+			" ?\")",
+			"prf(",
+			";",
+			"booth",
+			"}",
+			"{",
+			"int",
+			"calendar",
+			"calender",
+			", ",
+			"Mouse",
+			"aim/settings_modal.html",
+			"settings_modal.html",
+			"showAccountSettingsModal",
+			"$scope.account",
+			"account_info",
+			"type",
+			"submitAccount",
+			"onUserDataUpdate",
+			"settings_ctrl",
+			"hidden_settings_btn",
+			"popover_content_wrapper",
+			"ng-form",
+			"					\n",
+			"				\n",
+			"today",
+			"time-picker-input",
+			"collapse",
+			"getcalendardays",
+			"clearProfileSelection",
+			"clearProfileSelection()",
+			"timepicker",
+			"profile",
+			"fancyCalendarWeek",
+			"<!-- ngRepeat: row in fancyCalendarWeek -->",
+			"post",
+			"/*******************************************************************************",
+			"ladda_btn",
+			"query",
+			"scheduleModal",
+			"$setPristine()",
+			"cancel",
+			"query",
+			"statistic",
+			"static",
+			"date",
+			"rootScope",
+			"rootscope",
+			"authService",
+			"isAuth",
+			"logout",
+			"view_mode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" KEYWORD);}",
+			"{prtTok(\"\"); return retTok(,);}",
+			"input(",
+			":\" ",
+			"print ",
+			"",
+			":",
+			"",
+			",",
+			"",
+			", ",
+			"TAKEN",
+			"info"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/maeglin89273/Git/OpenBCI_Python/user.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/maeglin89273/Desktop/test.dart",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Dart/Dart.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								714,
+								714
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/home/maeglin89273/Desktop/geneBot",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 33.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/maeglin89273/idea-IC-141.713.2/Install-Linux-tar.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/maeglin89273/idea-IC-141.713.2/bin/idea64.vmoptions",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/opt/android-studio/NOTICE.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/maeglin89273/Desktop/compiler_hw/compiler_hw.l",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7285,
+								7285
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lisp/Lisp.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4461.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.build|/home/maeglin89273/Arduino/stino|1430310276.9357486":
+	{
+		"height": 213.0
+	},
+	"output.dart.analyzer":
+	{
+		"height": 0.0
+	},
+	"output.dart.out":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 386.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.upload|/home/maeglin89273/Arduino/stino|1430310284.9409552":
+	{
+		"height": 118.0
+	},
+	"output.upload|/home/maeglin89273/Arduino/stino|1430310295.7146308":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "geneBot.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"schedule.css",
+				"cityad/agm/static/agm/css/schedule.css"
+			],
+			[
+				"sched",
+				"cityad/agm/static/agm/css/schedule.css"
+			],
+			[
+				"angu",
+				"cityad/frontad/static/js/angular.min.js"
+			],
+			[
+				"settings",
+				"agm/templates/agm/settings_modal.html"
+			],
+			[
+				"main.ht",
+				"aim/templates/main.html"
+			],
+			[
+				"settings_modal",
+				"agm/templates/agm/settings_modal.html"
+			],
+			[
+				"",
+				"aim/templates/main.html"
+			],
+			[
+				"main.js",
+				"aim/static/aim/js/main.js"
+			],
+			[
+				"sche",
+				"agm/templates/schedule.html"
+			],
+			[
+				"setting",
+				"agm/templates/agm/settings_modal.html"
+			],
+			[
+				"settings_",
+				"agm/templates/agm/settings_modal.html"
+			],
+			[
+				"acco",
+				"agm/static/agm/js/accounts.js"
+			],
+			[
+				"acc",
+				"agm/static/agm/js/accounts.js"
+			],
+			[
+				"sch",
+				"agm/templates/schedule.html"
+			],
+			[
+				"schedu",
+				"agm/static/agm/js/schedule.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"submit",
+				"submit"
+			],
+			[
+				"badge",
+				"badge"
+			],
+			[
+				"hideu",
+				"hideUploadNotify"
+			],
+			[
+				"hideup",
+				"hideUploadNotify"
+			],
+			[
+				"",
+				"#_fileName with semicolon"
+			],
+			[
+				"current",
+				"currencyFilter"
+			]
+		],
+		"width": 701.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

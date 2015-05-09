@@ -1,0 +1,5 @@
+RNF14 [sym] AND "Homo"
+RNF10 [sym] AND "Homo"
+RNF11 [sym] AND "Homo"
+RNF13 [sym] AND "Homo"
+ATRX [sym] AND "Homo"
